@@ -6,7 +6,7 @@ fi
 
 if [ $# -gt 2 ];
 then
-  echo "Too many arguments, expected: pfpod [pod_name_search] [port_number]"
+  echo "Too many arguments, expected: pfp [pod_name_search] [port_number]"
   exit 1
 fi
 
